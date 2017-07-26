@@ -1,0 +1,6 @@
+D:\Study\MyProjects\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.exe.config
+D:\Study\MyProjects\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.exe
+D:\Study\MyProjects\TwoDimensionalArray\TwoDimensionalArray\bin\Debug\TwoDimensionalArray.pdb
+D:\Study\MyProjects\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.csprojResolveAssemblyReference.cache
+D:\Study\MyProjects\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.exe
+D:\Study\MyProjects\TwoDimensionalArray\TwoDimensionalArray\obj\Debug\TwoDimensionalArray.pdb
